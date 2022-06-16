@@ -1,5 +1,3 @@
-[MasterHead](![8c2a1b9ee0b08e9f1e3b0227fde0f37c](https://user-images.githubusercontent.com/56730691/174060172-167f5875-5290-4256-a620-ce3fc4b29219.gif)
-
 <h1 align="center">Hi 👋, I'm Olatunji Felix</h1>
 <h3 align="center">Enthusiastic Digital Engineer eager to contribute to team success through hard work, attention to details and excellent organizational skills. Clear understanding of tasks and training in software / data management</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
